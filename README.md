@@ -26,9 +26,10 @@ deaths in each continents.
 * [Plotly for charts](https://www.tutorialspoint.com/plotly/plotly_bar_and_pie_chart.htm)
 * [5 techniques DV](https://www.kdnuggets.com/2018/07/5-quick-easy-data-visualizations-python-code.html)
 * [Choropleth maps](https://plotly.com/python/choropleth-maps/)
+* few more blogs on data visualisation on covid. 
 
 
-## Blog Post##
+## Blog Post ##
 I have written the blog on the data analysis [here in this link](https://nancydoss.medium.com/this-will-open-your-eyes-to-see-the-main-reasons-for-covid-death-2a3b7828e56)
 
 ## Summary ##

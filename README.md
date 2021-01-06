@@ -1,12 +1,10 @@
-# Gender Gap pay Analysis in EU #
-This is a data analysis project on Genden pay gap in EU created for the Data Science Nando Degree program, from Udacity.
+# World wide Covid data analysis #
+This is a data analysis project on worldwide covid data created for the Data Science Nano Degree program, from Udacity.
 
 ## Scope ##
-The scope of this project is to analyse the data on the gender pay gap in EU amoung different
-coutries from 2009-2018.
-The analysis provides the insight about the gender gap difference in each coutries over the course 
-of time.
-It also provides the comparison of data over the decade.
+The scope of this project is to analyse the data on the worldwide covid cases from Jan, 2020 untill beginning of Jan2021
+The analysis provides the insight about the statistics around the world on covid confirmed cases, deaths and 
+causes of increase of death in each continent.
 
 
 ## Libraries Used ##
@@ -15,17 +13,19 @@ It also provides the comparison of data over the decade.
  * Pandas
  * Numpy
  * Python 3
+ * Plotly for ploting graphics
+ 
 
-## Refrence Files in the Project ##
-* Gender_PayG_EU.ipynb
+## Reference Files in the Project ##
+* covid_data_ww.ipynb
 * README.md
-* Data  Source : [EU Data on Gender Pay Gap](https://ec.europa.eu/eurostat/databrowser/view/earn_gr_gpgr2$DV_593/default/table?lang=en)
+* Data  Source : [owid-covid-data.csv](https://ourworldindata.org/coronavirus-testing)
 * Data file :
 
 
 ## Summary ##
-This will be updated shortly.
+The analysis shows the different causes of death in continents where death rates are higher.
+Also shows the top 10 countries affected by the COVID
 
 ## Acknoledgment ## 
-Thanks to the EU for providing data to the public, which is a great help for the beginner like me.
-
+Thanks to the Our World in data, for providing the data for deeper analysis
